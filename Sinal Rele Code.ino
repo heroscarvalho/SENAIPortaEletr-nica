@@ -1,6 +1,7 @@
 int sinalparaorele = 4; 
 
 void setup()
+  
 {
   //Define o pino como saida
   pinMode(sinalparaorele, OUTPUT); 
