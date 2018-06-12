@@ -1,2 +1,2 @@
-# SENAIPortaEletr-nica
+# SENAIPortaEletronica
 Porta Eletrônica | RFID
